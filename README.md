@@ -1,2 +1,2 @@
-Page of the article "Efficiently Distributed Watertight Surface Reconstruction"
-site : https://lcaraffa.github.io/edwsr/
+Page of the article "DSI-3D: Differentiable Search Index for Point Cloud Retrieval"
+site :
