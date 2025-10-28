@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Page of the article "Efficiently Distributed Watertight Surface Reconstruction" Thanks for reading!
+Page of the article "DSI-3D: Differentiable Search Index for Point Cloud Retrieval" Thanks for reading!
