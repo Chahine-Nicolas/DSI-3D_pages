@@ -43,6 +43,5 @@ Retrieval in 3D point clouds is a challenging task that consists in retrieving t
   HAL_VERSION = {v1},
 }
 {% endhighlight %}
-
-{% endhighlight %}
 {% include text-expand.html %}
+
