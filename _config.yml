@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Thanks for reading!
 baseurl: "/DSI-3D_pages" # the subpath of your site, e.g. /blog
 url: "https://Chahine-Nicolas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Chahine-Nicolas Zede
 github_username: Chahine-Nicolas
 # Build settings
 theme: minima
@@ -50,4 +51,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
