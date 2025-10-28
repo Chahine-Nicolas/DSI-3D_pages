@@ -29,3 +29,20 @@ Retrieval in 3D point clouds is a challenging task that consists in retrieving t
 
 # References
 
+{% highlight bibtex %}
+@inproceedings{caraffa:hal-03380593,
+  TITLE = {DSI-3D: Differentiable Search Index for Point Cloud Retrieval},
+  AUTHOR = {ZEDE, Chahine-Nicolas and CARAFFA, Laurent and GOUET-BRUNET, Valérie},
+  URL = coming soon,
+  BOOKTITLE = {2025 International Conference on Content-Based Multimedia Indexing (CBMI)},
+  ADDRESS = {Dublin, Ireland},
+  YEAR = {2025},
+  MONTH = Oct,
+  PDF = coming soon,
+  HAL_ID = coming soon,
+  HAL_VERSION = {v1},
+}
+{% endhighlight %}
+
+{% endhighlight %}
+{% include text-expand.html %}
